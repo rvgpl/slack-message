@@ -1,0 +1,13 @@
+{
+  "name": "@rvgpl/slack-message",
+  "version": "1.0.0",
+  "description": "A simple CLI to send message to a Slack channel",
+  "main": "index.js",
+  "keywords": [
+    "slack",
+    "message",
+    "cli"
+  ],
+  "author": "Ravigopal Kesari <hello@ravigopal.com> (https://ravigopal.com/)",
+  "license": "MIT"
+}
